@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Zaw Hlaing Win.</h1>
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="20px" height="20px" />, I'm Zaw Hlaing Win.</h1>
 <h3 align="center">Full stack web developer with primary focus on laravel + vuejs</h3>
 
 
